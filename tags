@@ -1,0 +1,65 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+acc	src/store.js	/^        acc = acc ? acc : cur.output;$/;"	P
+activeAction	src/store.js	/^    activeAction: "",$/;"	P
+autoprefixer	postcss.config.js	/^    autoprefixer: {}$/;"	P
+board	src/store.js	/^const board = {$/;"	O
+boardMouseDown	src/store.js	/^    boardMouseDown({ commit }, event) {$/;"	M
+boardMouseUp	src/store.js	/^    boardMouseUp({ commit }, event) {$/;"	M
+cached	src/registerServiceWorker.js	/^    cached() {$/;"	M
+clearLinkingElement	src/store.js	/^    clearLinkingElement(state) {$/;"	M
+click	src/store.js	/^    click() {$/;"	M
+component	src/router.js	/^      component: Board$/;"	P
+elementInputMouseUp	src/store.js	/^    elementInputMouseUp({ commit }, element) {$/;"	M
+elementLinkingFrom	src/store.js	/^    elementLinkingFrom: '',$/;"	P
+elementOutputMouseDown	src/store.js	/^    elementOutputMouseDown({ commit }, element) {$/;"	M
+elements	src/store.js	/^    elements: ["Battery", "Button", "LED", "OR"],$/;"	P
+error	src/registerServiceWorker.js	/^    error(error) {$/;"	M
+extends	.eslintrc.js	/^  extends: ["plugin:vue\/essential", "@vue\/prettier"],$/;"	P
+files	.eslintrc.js	/^      files: ["**\/__tests__\/*.{j,t}s?(x)"],$/;"	P
+input	src/store.js	/^    input: [],$/;"	P
+jest	.eslintrc.js	/^        jest: true$/;"	P
+linkElements	src/store.js	/^    linkElements(state, { element, index }) {$/;"	M
+moduleFileExtensions	jest.config.js	/^  moduleFileExtensions: ["js", "jsx", "json", "vue"],$/;"	P
+name	src/router.js	/^      name: "home",$/;"	P
+node	.eslintrc.js	/^    node: true$/;"	P
+offline	src/registerServiceWorker.js	/^    offline() {$/;"	M
+open	src/store.js	/^      this.open = !this.open;$/;"	P
+open	src/store.js	/^    open: true,$/;"	P
+overrides	.eslintrc.js	/^  overrides: [$/;"	P
+parser	.eslintrc.js	/^    parser: "babel-eslint"$/;"	P
+path	src/router.js	/^      path: "\/",$/;"	P
+presets	babel.config.js	/^  presets: ["@vue\/app"]$/;"	P
+ready	src/registerServiceWorker.js	/^    ready() {$/;"	M
+registered	src/registerServiceWorker.js	/^    registered() {$/;"	M
+render	src/main.js	/^  render: h => h(App)$/;"	P
+root	.eslintrc.js	/^  root: true,$/;"	P
+routes	src/router.js	/^  routes: [$/;"	P
+selectElement	src/store.js	/^    selectElement({ commit }, element) {$/;"	M
+selectedElement	src/store.js	/^    selectedElement: null,$/;"	P
+setActiveAction	src/store.js	/^    setActiveAction(state, action) {$/;"	M
+setElementInput	src/store.js	/^    setElementInput({ commit }, payload) {$/;"	M
+setElementLinkingFrom	src/store.js	/^    setElementLinkingFrom(state, element) {$/;"	M
+setSelectedElement	src/store.js	/^    setSelectedElement(state, element) {$/;"	M
+snapshotSerializers	jest.config.js	/^  snapshotSerializers: ["jest-serializer-vue"],$/;"	P
+testMatch	jest.config.js	/^  testMatch: [$/;"	P
+testURL	jest.config.js	/^  testURL: "http:\/\/localhost\/",$/;"	P
+transformIgnorePatterns	jest.config.js	/^  transformIgnorePatterns: ["\/node_modules\/"],$/;"	P
+type	src/store.js	/^    type: "Battery",$/;"	P
+type	src/store.js	/^    type: "Button",$/;"	P
+type	src/store.js	/^    type: "LED",$/;"	P
+type	src/store.js	/^    type: "OR",$/;"	P
+updated	src/registerServiceWorker.js	/^    updated() {$/;"	M
+updatefound	src/registerServiceWorker.js	/^    updatefound() {$/;"	M
+watchPlugins	jest.config.js	/^  watchPlugins: [$/;"	P
+x	src/store.js	/^    x: 10,$/;"	P
+x	src/store.js	/^    x: 100,$/;"	P
+x	src/store.js	/^    x: 40,$/;"	P
+x	src/store.js	/^    x: 70,$/;"	P
+y	src/store.js	/^    y: 10$/;"	P
+y	src/store.js	/^    y: 25$/;"	P
+y	src/store.js	/^    y: 40$/;"	P
